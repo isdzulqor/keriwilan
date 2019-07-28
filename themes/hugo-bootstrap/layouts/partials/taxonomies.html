@@ -1,16 +1,11 @@
 <section>
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
         {{ if gt (len $taxonomy) 0 }}
-        <h4>{{ i18n $taxonomyname }}</h4>
         <p>
             {{ range $name, $value := $taxonomy }}
-            
-                {{ if eq $taxonomyname "tags" }}
-                <a class="badge badge-info" href="{{ printf "/%s/" $taxonomyname | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
-                {{ else if eq $taxonomyname "categories" }}
+                
+                {{ if eq $taxonomyname "categories" }}
                 <a class="badge badge-success" href="{{ printf "/%s/" $taxonomyname | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
-                {{ else }}
-                <a class="badge badge-primary" href="{{ printf "/%s/" $taxonomyname | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
                 {{ end }}
 
             {{ end }}

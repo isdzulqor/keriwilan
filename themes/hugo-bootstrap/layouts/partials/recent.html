@@ -2,11 +2,10 @@
 {{ $posts := first $num_recent_posts (where .Site.Pages "Section" "in" .Site.Params.mainSections) }}
 {{ if gt (len $posts) 0 }}
 <section>
-    <h4>{{ i18n "recentPosts" }}</h4>
     <ol class="list-unstyled">
         {{ range $posts }}
         <li>
-            <a href="{{.RelPermalink}}">{{.Title | markdownify }}</a>
+            <a class="link-gray" href="{{.RelPermalink}}">{{.Title | markdownify }}</a>
         </li>
         {{ end }}
     </ol>
