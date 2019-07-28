@@ -16,7 +16,7 @@
 
 {{ $paginator := .Paginate (where .Pages "Type" "post") }}
 {{ range $paginator.Pages }}
-
+    
     {{ if $truncate }}
         {{ .Render "summary" }}
     {{ else }}
