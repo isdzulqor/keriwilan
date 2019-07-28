@@ -4,6 +4,9 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 publishDir = "./docs"
 
+# discusComment
+disqusShortname = "https-isdzulqor-github-io-keriwilan"
+
 # Pagination
 paginate = 4
 paginatePath = "page"
