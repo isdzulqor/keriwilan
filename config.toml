@@ -1,7 +1,8 @@
-baseurl = "/"
+baseurl = "https://isdzulqor.github.io/keriwilan/"
 title = "Keriwilan"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+publishDir = "./docs"
 
 # Pagination
 paginate = 4
