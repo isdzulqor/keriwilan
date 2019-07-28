@@ -1,6 +1,7 @@
 ---
 title: First post!
 date: 2015-01-05
+read: 10 min
 tags: ["demo"]
 ---
 
