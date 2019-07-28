@@ -20,9 +20,8 @@ theme = "hugo-bootstrap"
 
 [languages.en]
   languageName = "English"
-
   # Replace the default footer message with a localized message
-  # copyright = "Hugo template made with ❤ by Xzya"
+  copyright = "Let's have a cup of coffe with me"
 
   [[languages.en.menu.main]]
     url = "/"

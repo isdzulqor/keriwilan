@@ -1,14 +1,19 @@
-{{ $Xzya := "<a href=\"https://github.com/Xzya\">Xzya</a>" }}
-{{ $HugoThemeBootstrap4Blog := "<a href=\"https://github.com/alanorth/hugo-theme-bootstrap4-blog\">hugo-theme-bootstrap4-blog</a>" }}
-{{ $links := (dict "Xzya" $Xzya "HugoThemeBootstrap4Blog" $HugoThemeBootstrap4Blog ) }}
-{{ $thanks := i18n "thanks" $links | safeHTML }}
-
-{{ $copyright := default $thanks .Site.Copyright }}
+{{ $copyright := default "" .Site.Copyright }}
 {{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
 
 <footer class="blog-footer w-100">
     <nav class="navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
-        <p class="w-100 text-center">{{ $copyright }}</p>
-        <p class="w-100 text-center"><a href="#">{{ i18n "backToTop" }}</a></p>
+        <a class="act-btn" href="#"><i class="fas fa-arrow-alt-circle-up"></i></a>
+        <p class="w-100 text-center custom-font-footer">
+            {{ $copyright }}
+            <a href="https://github.com/isdzulqor" target="_blank">Isdzulqor</a>
+            <br>
+            <span>
+                Powered by 
+                <a href="https://gohugo.io/" target="_blank">Hugo</a>
+                and 
+                <a href="https://getbootstrap.com" target="_blank">Bootstrap</a>
+            </span>
+        </p>
     </nav>
 </footer>
