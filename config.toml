@@ -1,5 +1,5 @@
 baseurl = "https://example.com/"
-title = "Bootstrap demo"
+title = "Keriwilan"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -67,8 +67,8 @@ theme = "hugo-bootstrap"
 
   [params.header]
     # Color scheme for the header (default: "light")
-    # colorScheme = "dark"
+    colorScheme = "light"
 
   [params.footer]
     # Color scheme for the footer (default: "light")
-    # colorScheme = "dark"
+    colorScheme = "white"
