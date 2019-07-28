@@ -21,7 +21,7 @@ theme = "hugo-bootstrap"
 [languages.en]
   languageName = "English"
   # Replace the default footer message with a localized message
-  copyright = "Let's have a cup of coffe with me"
+  copyright = "Let's have a cup of coffee with me"
 
   [[languages.en.menu.main]]
     url = "/"
