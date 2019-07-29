@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
 .blog-header, .blog-pagination {
   margin-bottom: 1rem;
 }
@@ -101,4 +103,10 @@
 }
 .act-btn:focus{
   color: white;
+}
+
+.isdzulqor{
+  color: #3e4543;
+  font-weight: bold;
+  font-size: 0.7rem;
 }
