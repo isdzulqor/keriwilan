@@ -5,11 +5,11 @@
         <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
             {{ partial "brand" . }}
         </a>
-        <form class="input-group" action="http://google.com/search" target="_blank">
-            <input class="form-control custom-input" name="q" type="text"
-                placeholder="Search in Keriwilan" autocomplete="off">
-            <input name="q" type="hidden" value="site:{{ .Site.BaseURL }}" />
-            <input name="submit" type="submit" style="position: absolute; left: -9999px; width: 1px; height: 1px;" tabindex="-1" />
+        <form method="GET" class="input-group" action="http://google.com/search" target="_blank" autocomplete="off">
+            <input name="q" type="hidden" value="site:{{ .Site.BaseURL }}"/>
+            <input class="form-control" name="q" type="text"
+                placeholder="Search in Keriwilan">
+            <input name="submit" type="submit"  style="display:none"/>
         </form>
     </nav>
 </header>
