@@ -12,7 +12,7 @@ paginate = 4
 paginatePath = "page"
 
 # Theme to use
-theme = "hugo-bootstrap"
+# theme = "hugo-bootstrap"
 
 [taxonomies]
   tag = "tags"
