@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/post/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/categories/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/categories/docker/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/tags/docker/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/2019/08/manage-docker-lebih-mudah-dengan-portainer/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/tags/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/categories/tipsandtricks/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/tags/tipsandtricks/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/categories/tools/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isdzulqor.github.io/keriwilan/tags/tools/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
