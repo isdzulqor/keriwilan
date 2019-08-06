@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Keriwilan</title>
-    <link>https:keriwilan.com/categories/</link>
+    <link>https://keriwilan.com/categories/</link>
     <description>Recent content in Categories on Keriwilan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Let&#39;s have a cup of coffee with me</copyright>
     <lastBuildDate>Tue, 06 Aug 2019 22:18:38 +0700</lastBuildDate>
     
-	<atom:link href="https:keriwilan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keriwilan.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker</title>
-      <link>https:keriwilan.com/categories/docker/</link>
+      <link>https://keriwilan.com/categories/docker/</link>
       <pubDate>Tue, 06 Aug 2019 22:18:38 +0700</pubDate>
       
-      <guid>https:keriwilan.com/categories/docker/</guid>
+      <guid>https://keriwilan.com/categories/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TipsAndTricks</title>
-      <link>https:keriwilan.com/categories/tipsandtricks/</link>
+      <link>https://keriwilan.com/categories/tipsandtricks/</link>
       <pubDate>Tue, 06 Aug 2019 22:18:38 +0700</pubDate>
       
-      <guid>https:keriwilan.com/categories/tipsandtricks/</guid>
+      <guid>https://keriwilan.com/categories/tipsandtricks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tools</title>
-      <link>https:keriwilan.com/categories/tools/</link>
+      <link>https://keriwilan.com/categories/tools/</link>
       <pubDate>Tue, 06 Aug 2019 22:18:38 +0700</pubDate>
       
-      <guid>https:keriwilan.com/categories/tools/</guid>
+      <guid>https://keriwilan.com/categories/tools/</guid>
       <description></description>
     </item>
     

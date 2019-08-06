@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https:keriwilan.com/post/</loc>
+    <loc>https://keriwilan.com/post/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/categories/</loc>
-    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https:keriwilan.com/categories/docker/</loc>
+    <loc>https://keriwilan.com/categories/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/tags/docker/</loc>
+    <loc>https://keriwilan.com/categories/docker/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/</loc>
+    <loc>https://keriwilan.com/tags/docker/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/2019/08/manage-docker-lebih-mudah-dengan-portainer/</loc>
-    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:keriwilan.com/tags/</loc>
+    <loc>https://keriwilan.com/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/categories/tipsandtricks/</loc>
+    <loc>https://keriwilan.com/2019/08/manage-docker-lebih-mudah-dengan-portainer/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://keriwilan.com/tags/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/tags/tipsandtricks/</loc>
+    <loc>https://keriwilan.com/categories/tipsandtricks/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/categories/tools/</loc>
+    <loc>https://keriwilan.com/tags/tipsandtricks/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:keriwilan.com/tags/tools/</loc>
+    <loc>https://keriwilan.com/categories/tools/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keriwilan.com/tags/tools/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
