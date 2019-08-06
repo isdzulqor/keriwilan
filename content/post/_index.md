@@ -1,4 +1,3 @@
 ---
-title: Posts
+title: Articles
 ---
-Hello world!

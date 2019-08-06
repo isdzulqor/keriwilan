@@ -3,6 +3,7 @@ title = "Keriwilan"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 publishDir = "./docs"
+canonifyURLs = true
 
 # discusComment
 disqusShortname = "https-isdzulqor-github-io-keriwilan"
