@@ -4,7 +4,7 @@ date: "2019-08-06T22:18:38+07:00"
 read: "5 min"
 tags: ["Docker", "Tools", "TipsAndTricks"]
 categories: ["Docker", "Tools", "TipsAndTricks"]
-draft: true
+draft: false
 ---
 
 Halo Temans, bagi kalian yang suka ~~mainan~~ manage docker. Ada tools menarik nih biar mempermudah temans memanage docker. Dia adalah [Portainer](https://portainer.io). Selain open source alias gratis, Portainer ini menyediakan berbagai fitur mulai dari Dashboard, informasi Container, Docker images, App Templates, Docker Stacks, Networks, Volumes, Host Information, sampai melihat real-time dari Memory Usage, CPU Usage dari container. Banyak sekali fitur yang ada di Portainer ini. 
