@@ -41,7 +41,7 @@ alias docker-port="docker run --rm -d -p 9000:9000 -v /var/run/docker.sock:/var/
 $source ~/.bash_profile
 ```
 
-Nah alias sudah dibuat, temans kalo mau run portainer. Cukup panggil `docker-port` aja di terminal. Lalu buka `localhost:9000` di browser. Tadaa! Mudah bukan.
+Nah alias sudah dibuat. Temans kalo mau run portainer, cukup panggil `docker-port` aja di terminal. Lalu buka `localhost:9000` di browser. Tadaa! Mudah bukan.
 
 Bagi temans yang suka dengan CLI(*Command Line Interface*), temans bisa nih gunain si [Lazydocker](https://github.com/jesseduffield/lazydocker). Cuman dari fitur lebih banyak si Portainer yaa. Hahaaa
 
