@@ -20,7 +20,7 @@ paginatePath = "page"
   category = "categories"
 
 # Google analytics
-# googleAnalytics = ""
+googleAnalytics = "UA-145224240-1"
 
 [languages.en]
   languageName = "English"
