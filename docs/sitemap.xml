@@ -14,13 +14,13 @@
   </url>
   
   <url>
-    <loc>https://keriwilan.com/categories/docker/</loc>
+    <loc>https://keriwilan.com/tags/docker/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keriwilan.com/tags/docker/</loc>
+    <loc>https://keriwilan.com/categories/docker/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -43,25 +43,25 @@
   </url>
   
   <url>
-    <loc>https://keriwilan.com/categories/tipsandtricks/</loc>
-    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://keriwilan.com/tags/tipsandtricks/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keriwilan.com/categories/tools/</loc>
+    <loc>https://keriwilan.com/categories/tipsandtricks/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://keriwilan.com/tags/tools/</loc>
+    <lastmod>2019-08-06T22:18:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keriwilan.com/categories/tools/</loc>
     <lastmod>2019-08-06T22:18:38+07:00</lastmod>
     <priority>0</priority>
   </url>
