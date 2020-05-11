@@ -46,6 +46,6 @@ Nah alias sudah dibuat. Temans kalo mau run portainer, cukup panggil `docker-por
 Bagi temans yang suka dengan CLI(*Command Line Interface*), temans bisa nih gunain si [Lazydocker](https://github.com/jesseduffield/lazydocker). Cuman dari fitur lebih banyak si Portainer yaa. Hahaaa
 
 #### Sekilas
-Dari lihat [roadmap Portainer](https://github.com/portainer/portainer/projects/2) si Portainer ini. di versi 2.0 mereka akan support untuk `Kubernetes`. Menarik yaah. Kita tunggu sajaa temans :D. Eih kok tunggu, temans bisa contribute nih di [Github Portainer](portainer.io). Yuk kita dukung project open source temans. Contribute saja ke [Github Portainer](portainer.io) dan paling tidak relakan satu `star` temans untuk apresiasi kita :)
+Dari lihat [roadmap Portainer](https://github.com/portainer/portainer/projects/2) si Portainer ini. di versi 2.0 mereka akan support untuk `Kubernetes`. Menarik yaah. Kita tunggu sajaa temans :D. Eih kok tunggu, temans bisa contribute nih di [Github Portainer](https://github.com/portainer/portainer). Yuk kita dukung project open source temans. Contribute saja ke [Github Portainer](https://github.com/portainer/portainer) dan paling tidak relakan satu `star` temans untuk apresiasi kita :)
 
 Kalau ada kesulitan atau ada hal-hal yang ingin didiskusikan. Komens temans ditunggu dibawah yaa! 
